@@ -1,4 +1,11 @@
-### Hi there 👋</br>
+### Hi! I'm Megan! 👋</br>
+<div id="header">
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/mriffey/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+</div>
 
 #### [C868-Refactored](https://github.com/mriffey1/C868-Refactored) / [C868-Capstone (Original)](https://github.com/mriffey1/C868-Capstone)
 The goal of this project is to refactor, eliminate and improve efficiency of code. The language used for this project is Java and utilitized JavaFX for the GUI.  <br></br>
