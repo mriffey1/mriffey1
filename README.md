@@ -1,11 +1,15 @@
-### Hi! I'm Megan! 👋</br>
-<div id="header">
+### Hi! I'm Megan! 👋<div id="header">
  <div id="badges">
   <a href="https://www.linkedin.com/in/mriffey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 </div>
+
+<b>Degree:</b> Bachelor's of Software Development</br>
+<b>Languages:</b> Java & Python</br>
+
+
 
 
 
