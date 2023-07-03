@@ -10,7 +10,7 @@
 <b>Languages:</b> Java & Python</br>
 
 <b>Latest Project (as of June 19th, 2023):</b></br>
-[Gen Con Disney Lorcana Event](https://github.com/mriffey1/gencon/tree/master/lorcana)</br>
+</br>
 
 
 
