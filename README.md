@@ -9,8 +9,6 @@
 <b>Degree:</b> Bachelor's of Software Development</br>
 <b>Languages:</b> Java & Python</br>
 
-<b>Latest Project (as of June 19th, 2023):</b></br>
-</br>
 
 
 
