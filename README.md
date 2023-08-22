@@ -7,7 +7,7 @@
 </div>
 
 <b>Degree:</b> Bachelor's of Software Development</br>
-<b>Languages:</b> Java & Python</br>
+<b>Languages:</b> Java, Python, MySQL</br>
 
 
 
