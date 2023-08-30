@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/mriffey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https:megan.codes">
+<!--     <a href="https:megan.codes">
     <img src="https://img.shields.io/badge/Website-black?style=flat-square&logoColor=white" alt="Website Badge"/>
-  </a>
+  </a> -->
 </div>
 </div>
 
