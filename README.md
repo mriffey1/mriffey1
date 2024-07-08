@@ -1,6 +1,11 @@
 ## Hey 👋, I'm Megan! <img src="https://github.com/mriffey1/mriffey1/assets/88506324/b465e3c2-55de-48ce-89f8-c5d8b077820d" width="30px" alt="" align="center">
 
+### About Me
+🎓 Graduated (2022) with a Bachelor's of Software Development</br>
+:dog2: I have two corgis and four cats</br>
+:woman_technologist: Currently learning React, Next.js & Angular
 
+### Find Me Here
 <div id="header">
  <div id="badges">
   <a href="https://www.linkedin.com/in/mriffey/">
@@ -12,7 +17,7 @@
 </div>
 </div>
 
-
+### Top Languages I have used
 
 
 
