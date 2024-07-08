@@ -5,6 +5,7 @@
 :dog2: I have two corgis and four cats</br>
 :woman_technologist: Currently learning React, Next.js & Angular
 
+### Find Me Here
 <div id="header">
  <div id="badges">
   <a href="https://www.linkedin.com/in/mriffey/">
@@ -16,7 +17,7 @@
 </div>
 </div>
 
-
+### Top Languages I have used
 
 
 
