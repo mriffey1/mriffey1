@@ -22,12 +22,10 @@
 
 
 
-<<<<<<< HEAD
 
 [![Top Langs](https://github-readme-stats-chi2-navy.vercel.app/api/top-langs/?username=mriffey1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-=======
-[![Top Langs](https://github-readme-stats-8epo-git-master-mriffey1s-projects.vercel.app/api/top-langs/?username=mriffey1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> 368eeea14d9555c073a56b2d3d6097b60a0eee99
+
+
 
 <!--
 **mriffey1/mriffey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
