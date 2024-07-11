@@ -6,16 +6,11 @@
 :woman_technologist: Currently learning React, Next.js & Angular
 
 ### Reach Me On
-<div id="header">
- <div id="badges">
-  <a href="https://www.linkedin.com/in/mriffey/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<!--     <a href="https:megan.codes">
-    <img src="https://img.shields.io/badge/Website-black?style=flat-square&logoColor=white" alt="Website Badge"/>
-  </a> -->
-</div>
-</div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mriffey/)](https://www.linkedin.com/in/mriffey/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mriffey1@gmail.com)](mailto:mriffey1@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mriffey1/)](https://github.com/mriffey1/)
+
 
 ### Github Stats
 
