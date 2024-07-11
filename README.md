@@ -5,7 +5,7 @@
 :dog2: I have two corgis and four cats</br>
 :woman_technologist: Currently learning React, Next.js & Angular
 
-### Find Me Here
+### Reach Me On
 <div id="header">
  <div id="badges">
   <a href="https://www.linkedin.com/in/mriffey/">
