@@ -6,6 +6,7 @@
 :woman_technologist: Currently learning React, Next.js & Angular
 
 ### Reach Me On
+<a href="http://reddit.com" target="_new">Test</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mriffey/)](https://www.linkedin.com/in/mriffey/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mriffey1@gmail.com)](mailto:mriffey1@gmail.com)
