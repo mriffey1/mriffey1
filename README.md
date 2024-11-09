@@ -36,7 +36,7 @@
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats-8epo-8wi8b1t66-mriffey1s-projects.vercel.app/api/top-langs/?username=mriffey1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-8epo-fy643lf1r-mriffey1s-projects.vercel.app/api/top-langs/?username=mriffey1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
