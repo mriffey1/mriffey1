@@ -3,7 +3,7 @@
 
 ### About Me
 🎓 Graduated (2022) with a Bachelor's of Software Development</br>
-:dog2: I have two corgis and four cats</br>
+:dog2: I have one corgi and four cats</br>
 :woman_technologist: Currently learning Angular, .NET
 
 ### Reach Me On
