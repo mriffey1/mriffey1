@@ -34,8 +34,6 @@
 			<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
 </div>
 
-### Github Stats
-[![Top Langs](https://github-readme-stats-chi2-navy.vercel.app/api/top-langs/?username=mriffey1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
