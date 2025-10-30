@@ -2,9 +2,8 @@
 ## Hey 👋, I'm Megan! <img src="https://github.com/mriffey1/mriffey1/assets/88506324/b465e3c2-55de-48ce-89f8-c5d8b077820d" width="30px" alt="" align="center">
 
 ### About Me
-🎓 Graduated (2022) with a Bachelor's of Software Development</br>
+🎓 Bachelor's of Software Development from Western Governors University (WGU)</br>
 :dog2: I have one corgi and four cats</br>
-:woman_technologist: Currently learning Angular, .NET
 
 ### Reach Me On
 
@@ -20,6 +19,8 @@
 			<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 			<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
             			<img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
+						<img width="40" src="https://camo.githubusercontent.com/3fd3375a7b86ce72d499af9cbbff441b6dcd25945262bb685937ab04f6530c2d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67756c61722e737667" alt="Angular" title="Angular">
+			<img width="40" src="https://camo.githubusercontent.com/89567f55429cbe7ebbeb6eab21be45618d3459b4ba689ef351c232a4145addcf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" alt="C++" title="C++">
 
 </div>
 
@@ -32,7 +33,15 @@
 			<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/>
 			<img width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
 			<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
+	<img width="40" src="https://camo.githubusercontent.com/1a38a3302a7cd3602eaae072cc2cd73742369f791b08df2e6f4f8aedb013c01f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6368726f6d652e737667" alt="Google Chrome" title="Google Chrome"></br>
+	<img width="40" src="https://camo.githubusercontent.com/efc4e09e964c512622394a6145a9ce5d7f0cc0fafa63bf944f414f5ab130cc28/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656467652e737667" alt="Microsoft Edge" title="Microsoft Edge">
+<img width="40" src="https://camo.githubusercontent.com/4f5aea7f1b840287b195c550a8389be96ffa5b5283f688e92756e7d181181882/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66697265666f782e737667" alt="Mozilla Firefox" title="Mozilla Firefox">
+<img width="40" src="https://camo.githubusercontent.com/79256dafb2a4640d2ef03249a1afc716cc5de12f2082b0b82c692b0163f6a955/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="GitHub" title="GitHub">
+<img width="40" src="https://camo.githubusercontent.com/a69f13885282f9a084372cb9ea44756adf52d9c92b8d48f4ceb20170ec8055c9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746c61622e737667" alt="GitLab" title="GitLab">
+	<img width="40" src="https://camo.githubusercontent.com/2eb077beace5f90cabb2a1cb97fde4ffa0f5f5fe32be54345cf364ed64f0c580/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f706f73746d616e2e737667" alt="Postman" title="Postman">
 </div>
+
+
 
 
 
